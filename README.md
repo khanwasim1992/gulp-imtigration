@@ -1,4 +1,4 @@
-# gulp-intigration
+# Gulp Intigration
 This project is about to intigrate glup with your project.
   1. Convert SCSS file to css
   2. Minimize css, js and image files.
@@ -6,8 +6,8 @@ This project is about to intigrate glup with your project.
   4. Creating Build with glup
 
 
-#### Note : 1. You have to know the basic command to run gulp and gulp task.
-####        2. Change file path  according to your project structure in gulp.js 
+ Note : 1. You have to know the basic command to run gulp and gulp task.
+        2. Change file path  according to your project structure in gulp.js 
 
   
 
