@@ -6,6 +6,9 @@ This project is about to intigrate glup with your project.
   4. Creating Build with glup
 
 
+#### Note : 1. You have to know the basic command to run gulp and gulp task.
+####        2. Change file path  according to your project structure in gulp.js 
+
   
 
 
